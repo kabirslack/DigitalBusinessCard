@@ -1,0 +1,13 @@
+.footer{
+    padding: 20px;
+    background-color: #161619;
+    border-radius: 0 0 10px 10px;
+}
+.iconList{
+    display: flex;
+    justify-content: space-around;
+}
+.iconList img {
+    height: 25px;
+    width: 25px;
+}
